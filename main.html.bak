@@ -228,7 +228,7 @@
 		说句笑话 维持关系的纽带 利益<br />
 		<img src="p/67.jpg" /><br />
 		<video width="362" height="640" controls>
-			<source src="p/v/1.mp4" controls>
+			<source src="p/v/1.mp4" type="p/v">
 		</video>
 			
 		
